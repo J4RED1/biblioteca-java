@@ -1,0 +1,4 @@
+===== REPORTE DE PRÉSTAMOS ACTIVOS =====
+
+📖 Cien Años de Soledad → José Pérez | Préstamo: 2025-04-08 | Vence: 2025-04-22
+📖 1984 → María Torres | Préstamo: 2025-04-08 | Vence: 2025-04-22

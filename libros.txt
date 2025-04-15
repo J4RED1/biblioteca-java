@@ -1,0 +1,6 @@
+001,El Principito,Antoine de Saint-Exupéry,2
+002,Cien Años de Soledad,Gabriel García Márquez,1
+003,1984,George Orwell,1
+l004,Don Quijote,Miguel de Cervantes,1
+l005,El principito},Antoine de Saint-Exupery,2
+l006,libro prueba,autor prueba,1
